@@ -408,8 +408,8 @@ package classes.Scenes.Areas.Lake
 				outputText("Your orgasm bursts from your loins, thick loads pumping in bloated bulges up her squirming body and erupting from your corona in an ivory shower that splatters in wet ropes across the girl's stuffed face, her wobbling tits, and all along her translucent " + gooColor5() + " body. Like an unwilling cum hose, the girl wriggles, unable to disentangle herself from the flagpole of your " + cockDescript(x) + ". She settles with gathering your slippery, pearl seed with her hands, stuffing the nutrient-rich jizz into her belly button, which expands to slurp up the spunk like a second mouth. When the last of your climax is spent, you unsteadily regain your feet and slide the slime off your titanic shaft, her interior resealing with a gurgling plop. She rubs her stretched jaw and shoots you a look of playful annoyance before patting the milk-like bloat of her belly. She flashes a grin and slithers back into the lake.\n\n", false);
 
 				outputText("If only all of Mareth's denizens were so accommodating, you muse, as you gather your things and depart.", false);
-				coreDropChance();
 			}
+			coreDropChance();
 			player.orgasm();
 			player.slimeFeed();
 			cleanupAfterCombat();
